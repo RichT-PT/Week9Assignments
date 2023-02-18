@@ -15,16 +15,30 @@ body{
 /* .d-block{
     width: 200px;
 } */
+#diveflag{
+    border: solid rgb(235, 196, 196);
+    margin: 0 0 5px 0;
+}
 #wbbjBeechLake{
-    border: solid brown;
+    border: solid rgb(235, 196, 196);
+    margin: 0 0 5px 0
 }
 #beechLake2{
-    border: solid brown;
+    border: solid rgb(235, 196, 196);
+    margin: 0 0 5px 0
+
 }
 #jdandleann{
     width: 200px;
     border: 3px solid rgb(30, 90, 84);
+    margin: 0 0 5px 0
 }
 p{
-    font-size: .5rem;
+    font-size: .7rem;
+}
+#yellowflag{
+    margin: 0 0 5px 0
+}
+#donationPageH3{
+    text_align: center;
 }
