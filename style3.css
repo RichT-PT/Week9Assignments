@@ -1,0 +1,30 @@
+.display-3{
+    
+    height: 100px;
+    width: 100%;
+    background-color: rgb(238, 66, 66);
+    border-radius: 20px;
+    text-align: center;
+    color: white;
+	-webkit-text-stroke: 2px black;
+	padding: 7px;
+}
+body{
+	padding: 10px 10px 10px 10px;
+}
+/* .d-block{
+    width: 200px;
+} */
+#wbbjBeechLake{
+    border: solid brown;
+}
+#beechLake2{
+    border: solid brown;
+}
+#jdandleann{
+    width: 200px;
+    border: 3px solid rgb(30, 90, 84);
+}
+p{
+    font-size: .5rem;
+}
